@@ -59,7 +59,7 @@ body{
 
 /* Caption text */
 .text {
-background-color: aliceblue;
+background-color: white;
   font: 'Corben'
   color: black;
   font-size: 15px;
@@ -67,7 +67,7 @@ background-color: aliceblue;
   position: relative;
   bottom: 8px;
   width: 100%;
-  text-align: 50%;
+  text-align: center;
 }
 
 /* Number text (1/3 etc) */
